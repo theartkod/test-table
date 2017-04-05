@@ -1,5 +1,7 @@
 # table-test
 
+![alt tag](http://savepic.ru/13487103.jpg)
+
 > A Vue.js project
 
 ## Build Setup
